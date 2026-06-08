@@ -19,16 +19,6 @@ _I write code, test it, break it, fix it, repeat._
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjeslab&show_icons=true&hide_title=true&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Goal
 
 Build reliable software and grow as an SDET / DevOps Engineer.
